@@ -1,23 +1,30 @@
-## Hi, I'm Ashutosh Agarwal
+# Hi there, I'm Ashutosh 👋
 
-Software Engineering student at UNB (graduating 2029).  
-Looking for a Summer 2027 role in software or tech. Available May–August.  
+I'm a Software Engineering student at the University of New Brunswick, and I'm looking for a **Summer 2027 student role** in software or tech (May to August).
 
-I like turning manual, paper-based processes into simple digital tools that make people's work easier. I'm early in my programming journey, and this GitHub is where I'm learning to build and share code in the open.  
+I turn paper forms and manual workflows into clean, simple digital tools that make work easier for the people doing it.
 
-What I'm working on:  
-[Kit Tracker](https://github.com/ashutosh-agarwal-swe/kit-tracker) (Java), currently building a tool to track equipment assigned to individuals. Repo is freshly initialized with the MIT license; code will go up as I develop it.  
+## What I'm working on
 
-What I've built before:  
-ESP32 door sign: Built a single-board status display for my office door using an ESP32 and a touchscreen. Wrote the firmware entirely from scratch, using AI strictly for debugging. Learned how to program in the Arduino framework and integrated touch-screen input handling.  
+Right now I'm building [**Kit Tracker**](https://github.com/ashutosh-agarwal-swe/kit-tracker), a Java tool that tracks the equipment issued to each person, for anyone who manages kit for a group of people. I'm learning Java at UNB and building this one step at a time, so expect regular updates.
 
-What I'm learning and using:  
-Java: learning it at UNB.  
-Microsoft Power Platform and SharePoint: built SharePoint sites and a Power Apps workbook in previous roles, with Power Automate and some HTML/CSS.  
-Excel VBA: built tracking tools in previous roles.  
-Python and R: used with AI assistance for data analysis in a previous role (I reviewed the output; I'm not claiming unaided expertise).  
-Arduino/ESP32: personal hardware projects.  
+## Things I've built
 
-Contact info:  
-Email: ashutosh.agarwal@unb.ca  
-LinkedIn: [linkedin.com/in/ashutosh-agarwal-unb](https://www.linkedin.com/in/ashutosh-agarwal-unb/)
+I like small hardware projects that solve everyday problems. My [**ESP32 Pomodoro timer**](https://github.com/ashutosh-agarwal-swe/esp32-pomodoro-timer) is a touchscreen focus timer with an animated progress graphic, and my [**ESP32 door sign**](https://github.com/ashutosh-agarwal-swe/esp32-door-sign) lets me set my office status with a single tap. Both were built with AI-assisted development: I directed the design, then tested, debugged and tuned them on real hardware.
+
+In previous roles, I built SharePoint sites, a Power Apps workbook and Excel tracking tools (some automated with VBA) to make day-to-day work easier.
+
+## Tools I use
+
+![Java](https://img.shields.io/badge/Java%20(learning)-0D5C63?style=flat-square)
+![Git](https://img.shields.io/badge/Git-0D5C63?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32%20%2F%20Arduino-0D5C63?style=flat-square)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-0D5C63?style=flat-square)
+![SharePoint](https://img.shields.io/badge/SharePoint-0D5C63?style=flat-square)
+![Excel / VBA](https://img.shields.io/badge/Excel%20%2F%20VBA-0D5C63?style=flat-square)
+
+I've also used Python and R for data analysis with AI assistance, reviewing and verifying the output myself.
+
+## Let's connect
+
+I'm always happy to chat about software, hardware projects or student opportunities, so feel free to reach out at ashutosh.agarwal@unb.ca or connect with me on [LinkedIn](https://www.linkedin.com/in/ashutosh-agarwal-unb/). Thanks for stopping by!
