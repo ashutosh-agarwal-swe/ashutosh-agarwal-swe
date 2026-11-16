@@ -1,12 +1,12 @@
 # Hi there, I'm Ashutosh 👋
 
-I'm a Software Engineering student at the University of New Brunswick, and I'm looking for a **Summer 2027 student role** in software or tech (May to August).
-
-I turn paper forms and manual workflows into clean, simple digital tools that make work easier for the people doing it.
+I'm a Software Engineering student at the University of New Brunswick, and I'm looking for a **Summer 2027 software internship** (May to August).
 
 ## Things I've built
 
-I built [**Dice Duel**](https://github.com/ashutosh-agarwal-swe/dice-duel), a two-player Pig dice game in Java. It has three computer opponents, a strategy simulator, and both a text version and a JavaFX version. Written by me; AI used for review and debugging.
+[**Screenside**](https://github.com/ashutosh-agarwal-swe/screenside) is a set of 32 PDF tools that run in the browser, live at [screenside.ca](https://screenside.ca). It can merge, split, organize, convert, edit, annotate, sign and redact PDFs, and nothing is uploaded. It uses PDF.js, pdf-lib, JSZip and PptxGenJS. Built with AI-assisted development (coding fixes, security and optimization).
+
+[**Dice Duel**](https://github.com/ashutosh-agarwal-swe/dice-duel) is a two-player Pig dice game in Java. It has three computer opponents, a strategy simulator, and both a text version and a JavaFX version. Written by me; AI used for review and debugging.
 
 I also like small hardware projects that solve everyday problems. My [**ESP32 Pomodoro timer**](https://github.com/ashutosh-agarwal-swe/esp32-pomodoro-timer) is a touchscreen focus timer with an animated progress graphic, and my [**ESP32 door sign**](https://github.com/ashutosh-agarwal-swe/esp32-door-sign) lets me set my office status with a single tap. Both were built with AI-assisted development: I directed the design, then tested, debugged and tuned them on real hardware.
 
@@ -16,10 +16,14 @@ In previous roles, I built SharePoint sites, a Power Apps workbook and Excel tra
 
 Right now I'm building [**Kit Tracker**](https://github.com/ashutosh-agarwal-swe/kit-tracker), a Java tool that tracks the equipment issued to each person, for anyone who manages kit for a group of people. I'm learning Java at UNB and building this one step at a time, so expect regular updates.
 
+I'm also working on [**Fundy Vessel Tracker**](https://github.com/ashutosh-agarwal-swe/fundy-vessel-tracker), a Python pipeline for AIS ship positions in the Bay of Fundy. It flags transmission gaps, loitering and rendezvous, filtering out poor radio coverage and collector outages, and uses pandas, Matplotlib and Folium. It has been tested on sample data; live collection hasn't started yet. Built with AI-assisted development and human testing/oversight.
+
 ## Tools I use
 
 ![Java](https://img.shields.io/badge/Java%20(learning)-0D5C63?style=flat-square)
 ![JavaFX](https://img.shields.io/badge/JavaFX-0D5C63?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript%20(basic)-0D5C63?style=flat-square)
+![Python](https://img.shields.io/badge/Python%20(basic)-0D5C63?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-0D5C63?style=flat-square)
 ![ESP32](https://img.shields.io/badge/ESP32%20%2F%20Arduino-0D5C63?style=flat-square)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-0D5C63?style=flat-square)
